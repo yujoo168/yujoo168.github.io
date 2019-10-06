@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: yujoo's 개발 블로그
-subtitle: yujoo가 개발 공부하는 이야기들"
+subtitle: yujoo가 개발 공부하는 이야기들
 email: qlsn96@naver.com
 name: yujoo
 description: >
@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl:  # the subpath of your site, e.g. /blog/
 url: "http://bencentra.github.io" # the base hostname & protocol for your site
-# cover: "/assets/header_image.jpg"
-# logo: "/assets/logo.png"
+ cover: "/assets/header_image.jpg"
+ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
