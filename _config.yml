@@ -10,9 +10,9 @@ exclude:
 
 # Site settings
 title: yujoo's 개발 블로그
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+subtitle: yujoo가 개발 공부하는 이야기들"
 email: qlsn96@naver.com
-name: Ben Centra
+name: yujoo
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl:  # the subpath of your site, e.g. /blog/
 url: "http://bencentra.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+# cover: "/assets/header_image.jpg"
 # logo: "/assets/logo.png"
 
 # Build settings
@@ -91,10 +91,10 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: yujoo168
+    url: https://yujoo168.github.io
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
