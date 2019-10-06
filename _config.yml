@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: yujoo's 개발 블로그
-subtitle: "yujoo가 개발 공부하는 이야기"
-email: qlsn96@naver.com
-name: yujoo
+title: Centrarium
+subtitle: "A simple yet classy theme for your Jekyll website or blog"
+email: blcentra@gmail.com
+name: Ben Centra
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl:  # the subpath of your site, e.g. /blog/
 url: "http://bencentra.github.io" # the base hostname & protocol for your site
- cover: "/assets/header_image.jpg"
- logo: "/assets/logo.png"
+cover: "/assets/header_image.jpg"
+logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
@@ -75,12 +75,12 @@ descriptions:
 #     desc: Follow me on Twitter            # Description to display as link title, etc
 #     share: true                           # Include in the "Share" section of posts
 social:
-#  - name: Twitter
-#    icon: twitter
-#    username: TheBenCentra
-#    url: https://twitter.com/TheBenCentra
-#    desc: Follow me on Twitter
-#    share: false
+  - name: Twitter
+    icon: twitter
+    username: TheBenCentra
+    url: https://twitter.com/TheBenCentra
+    desc: Follow me on Twitter
+    share: true
 
   - name: Facebook
     icon: facebook
@@ -91,17 +91,17 @@ social:
 
   - name: GitHub
     icon: github
-    username: yujoo168
-    url: https://yujoo168.github.io
+    username: bencentra
+    url: https://github.com/bencentra
     desc: Fork me on GitHub
-    share: true
+    share: false
 
-#  - name: LinkedIn
-#    icon: linkedin
-#    username: Ben Centra
-#    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
-#    desc: Connect with me on LinkedIn
-#    share: true
+  - name: LinkedIn
+    icon: linkedin
+    username: Ben Centra
+    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    desc: Connect with me on LinkedIn
+    share: true
 
   - name: Google+
     icon: google-plus
