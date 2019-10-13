@@ -24,6 +24,6 @@ main_nav: true
 
 개발블로그 포스팅과 유튜브
 -->
-
-[Github blog] https://yujoo168.github.io/ <br>
-[Portfolio] https://joo168.github.io/ <br>
+<a href="https://yujoo168.github.io/">Github blog (https://yujoo168.github.io/)</a>
+<br>
+<a href="https://joo168.github.io/">Portfolio (https://joo168.github.io/)</a>
