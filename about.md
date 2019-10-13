@@ -14,7 +14,7 @@ main_nav: true
 이러한 공부를 하다보니, '모든 산업의 IT화'라는 필연적인 변화의 과정을 체감했습니다. 개인인 저도 그 변화들을 보다 내밀히 이해하고 활용하는 사람이 되고 싶었습니다. 그래서 저는 졸업을 앞두고 뒤늦게 개발 공부를 시작하게 되었습니다.<br>
 뒤늦게 배운 개발 공부는 점점 저에게 즐거움과 몰입의 경험을 선사했습니다. 공부를 하면 할수록 배운 것을 활용하여 세상을 더 배워나갈 수 있겠다는 확신이 들었습니다. 세상에 대한 배움 속에서 세상의 의미와 가치를 더 찾아나가는 경험을 할 것이라는 기대감도 생겼습니다.
 더 많이 공부하고, 더 깊이 배우고, 그럼으로써 더 찾아가고 싶습니다.
-<br>
+<br><br>
 
 <!--
 어떤 공부
@@ -24,6 +24,6 @@ main_nav: true
 
 개발블로그 포스팅과 유튜브
 -->
-<a href="https://yujoo168.github.io/">Github blog (https://yujoo168.github.io/)</a>
-<br>
-<a href="https://joo168.github.io/">Portfolio (https://joo168.github.io/)</a>
+<a href="https://yujoo168.github.io/">Github blog <br>(https://yujoo168.github.io/)</a>
+<br><br>
+<a href="https://joo168.github.io/">Portfolio <br>(https://joo168.github.io/)</a>
